@@ -1,0 +1,139 @@
+body {
+    color: #f8888e;
+    background-color: #131419;
+}
+
+a {
+	color: #FF0000;
+}
+
+a:hover {
+	color: #FFC0CB;
+}
+
+.navbar {
+    background-color: #1c1c24;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #f8888e;
+}
+
+.top-menu li a::after {
+    color: #dbdada;
+}
+
+
+
+
+.product-card {
+    background-color: #5858581f;
+    box-shadow: 0 2px 5px 0 rgba(138, 138, 138, 0.021);
+}
+
+.product-card:hover {
+    box-shadow: 0 14px 30px -15px rgba(62, 62, 62, 0.75);
+}
+
+
+.product-details p {
+    color: #d2d2d2;
+}
+
+.product-bottom-details {
+    border-top: 1px solid #e3e3e3;
+}
+
+.product-price {
+    color: #ee6e73;
+}
+
+.product-price small {
+    color: #ffffff;
+}
+
+
+
+.contact-content {
+    background-color: #585858;
+}
+
+
+.footer {
+    background-color: #131419;
+}
+
+.footer h4 {
+    color: #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
+
+
+.footer a:hover {
+    color: #adadad;
+}
+
+.footer a,
+.footer li {
+    color: #ffffff;
+}
+}
+element.style {
+}
+fieldset {
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+fieldset {
+    display: block;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 0.75em;
+    padding-inline-end: 0.75em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+    border-width: 2px;
+    border-style: groove;
+    border-color: rgb(192, 192, 192);
+    border-image: initial;
+}
+.contact-content {
+    text-align: center;
+    background-color: #020202;
+    margin-top: 0;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    margin-left: 110px;
+    margin-right: 110px;
+}
+body {
+    font-family: 'Monserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    min-width: 320px;
+}
+body {
+    margin: 0;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+html {
+    font-size: 16px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
