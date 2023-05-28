@@ -17,6 +17,7 @@ body {
   font-weight: bold;
 }
 
+game
 #text {
   margin-top: 20px;
   font-size: 16px;
@@ -36,25 +37,21 @@ body {
 
 .container1 {
   position: relative;
-  width: 900px;
-  height: 450px;
   margin: 20px auto;
   text-align: center;
+  width: 900px;
+  height: 450px;
   background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20201203/pngtree-pink-striped-candy-background-image_500432.jpg);
 }
 
 .container {
   position: relative;
-  width: 900px;
-  height: 450px;
   margin: 20px auto;
   text-align: center;
   background-color:#f9ecef ;
 }
 .container11 {
   position: relative;
-  width: 900px;
-  height: 450px;
   margin: 20px auto;
   text-align: center;
 }
