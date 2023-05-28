@@ -52,7 +52,14 @@ a:hover {
     color: #ffffff;
 }
 
-
+.container {
+  position: relative;
+  width: 900px;
+  height: 450px;
+  margin: 20px auto;
+  text-align: center;
+  background-color:#000000 ;
+}
 
 .contact-content {
     background-color: #585858;
